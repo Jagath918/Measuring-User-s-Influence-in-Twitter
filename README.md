@@ -1,4 +1,4 @@
-# Measuring-User's-Influence-in-Twitter
+# Measuring User's Influence in Twitter
 
 In this work, we highlight the importance of planning a new digital campaign in a particular region through obtaining the twitter screen names from a particular website, we understood who the social media influencers are in particular region and in which area fall into (e.g., politics, fashion, art, etc.).
 
